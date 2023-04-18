@@ -1,5 +1,5 @@
 # RP2040_Game_Kit
-基于树莓派RP2040的游戏机
+基于树莓派RP2040的嵌入式系统学习平台
 树莓派2040官方介绍:https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html#welcome-to-rp2040
 
 树莓派pico官方上手教程:https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/0
